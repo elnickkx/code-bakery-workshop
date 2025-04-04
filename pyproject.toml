@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "leetcode-workspace"
+name = "code-bakery-workshop"
 version = "0.1.0"
 description = ""
 authors = [ "Nikkhil Butola <nikkhilbutola@outlook.com>"]
